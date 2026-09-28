@@ -4,10 +4,10 @@ Screenshots of the GoHighLevel project for GenZ Smart Dental Clinic.
 
 ## Funnel and Booking
 
-01 Dental Consultation Page
-02 Dental Consultation Form
-03 Thank You Page
-04 Funnel Structure
+01 Dental Consultation Page  
+02 Dental Consultation Form  
+03 Thank You Page  
+04 Funnel Structure  
 05 Dental Consultation Availability
 06 Dental Consultation Booking Calendar
 
